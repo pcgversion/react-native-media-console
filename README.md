@@ -36,6 +36,8 @@ This monorepo contains the `react-native-media-console` modules (`./packages/*`)
 Issues, pull request, and discussion are all welcome. See the [Contribution Guidelines](CONTRIBUTING.md) for details, and please reach out to [the author](https://github.com/LunatiqueCoder) if you would like to participate more significantly.
 
 Active contributors are eligible to receive a license for all JetBrains Products that can be used for open source development. 
+
+Did version change of react-native-reanimated in media-console and reanimated package.json
 <br>
 
 ## 🏆 Sponsors
