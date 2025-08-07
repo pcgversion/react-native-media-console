@@ -28,7 +28,6 @@
     "jest.config.js"
   ],
   "include": [
-    "packages/*/src",
-    "examples"
+    "src"
   ]
 }
